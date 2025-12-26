@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maven / Java
 target/
 *.class
@@ -27,3 +28,34 @@ Thumbs.db
 # IntelliJ
 out/
 
+=======
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+>>>>>>> 423531834df0027fe90c8319352db74879b0b2ee
