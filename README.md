@@ -5,7 +5,6 @@ This repository contains several low-level design example projects (Elevator, Pa
 Structure:
 - Elevator/
 - ParkingLot/
-- src/main/java/com/booking/
 
 Build
 -----
