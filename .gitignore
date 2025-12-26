@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+# Maven / Java
+target/
+*.class
+*.log
+*.jar
+*.war
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# build
+/target/
+
+# editors
+*.swp
+
+# Gradle
+.gradle/
+
+# IntelliJ
+out/
+
+=======
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,3 +58,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+>>>>>>> 423531834df0027fe90c8319352db74879b0b2ee
