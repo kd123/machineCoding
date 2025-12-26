@@ -1,0 +1,29 @@
+# Maven / Java
+target/
+*.class
+*.log
+*.jar
+*.war
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# build
+/target/
+
+# editors
+*.swp
+
+# Gradle
+.gradle/
+
+# IntelliJ
+out/
+
